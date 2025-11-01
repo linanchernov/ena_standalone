@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this demo in your research, please cite the ENA Project."
+title: "ENA C14.D⁺ — Standalone Random Demo (No LLM)"
+authors:
+  - family-names: Bessonova
+    given-names: Lina
+    name: Lina Bessonova
+  - family-names: Chernov
+    given-names: Alexey
+    name: Alexey Chernov (ENA)
+date-released: 2025-11-01
+version: "C14.D+"
+license: MIT
+repository-code: "https://github.com/linanchernov/ENA"
